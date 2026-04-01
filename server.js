@@ -65,6 +65,11 @@ app.post("/ivr", (req, res) => {
         renewal: "15 April",
         amount: "1000"
       },
+      "6361727616": {
+        name: "Vishal Anand",
+        renewal: "15 April",
+        amount: "2500"
+      },
       "9159660127": {
         name: "Chunnu",
         renewal: "20 June",
